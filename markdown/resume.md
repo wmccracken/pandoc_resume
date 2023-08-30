@@ -140,5 +140,4 @@ Hobbies
 - Electronics / Microprocessor Development
 - Cycling
 - Guitar
-- Cooking
-- 
+- Cooking 
