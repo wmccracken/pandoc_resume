@@ -1,100 +1,135 @@
-Johnny Coder
+William G. McCracken III
 ============
 
-----
+-------
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> <will@wgmamm.com> • +1 (410)279-4100 \
+> 141 Merrimack Way, Arnold, MD 21012
 
-----
+-------
 
-Education
----------
+Summary
+-------
+Experienced computer engineer and architect with over 20 years of expertise in software development, systems administration, application and system architecture, database design and management, cloud architecture, networking, and security.
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Proficient in:
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+- Web and systems development in languages such as Go, Ruby, JavaScript, Java, Rust, Perl, C/C++
+- Systems architecture, automation, and administration on Linux, VMWare, OS X, and Windows
+- OSS Tools - monitoring, logging, ITSM, ServiceNow
+- Kubernetes, Docker, Containers, DevOps, Terraform
+- Cloud computing - AWS, Azure
+- Database design, development, and administration with various SQL, NoSQL, and Time Series databases
+- Networking
+- Cybersecurity
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+Apr 2019 - Current
+:   **VP Of Engineering**; Enclave Data
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 
-* First item
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Dec 2017 - Apr 2019
+:   **Director, Operations Support Systems**; Data Intensity
 
-**That Other Job You Had**
+I was responsible for the technical and managerial oversight of Data Intensity's OSS teams.  These included monitoring, automation, integration and ServiceNow
 
-Also with a short description.
+- Developed an eBonding system in Mulesoft for integrating customer ticketing systems with ServiceNow.
+- Led migration of monitoring systems from Sitescope to Nagios.
+- Collaborated with ServiceNow team to enhance Data Intensity's ServiceNow implementation.
 
-Technical Experience
---------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Dec 2010 - Dec 2017
+:   **Chief Engineer**; Sungard Availability Services
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Responsible for technical oversight of development and architecture of Sungard AS's Operational Support Systems. These included
+monitoring tools, customer portals, ticketing systems, configuration management, SSO and more. Daily responsibilities include
+overseeing development and engineering of the tools, architecting solutions to get data into and out of the tools, and providing
+general programming guidance to engineering when needed.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+- Integrated new HP toolset using Mulesoft as an enterprise service bus / API server.
+- Developed a system for eBonding support tickets using Sails.JS, later rebuilt in Mulesoft for expanded features.
+- Led migration of customer portal applications to AWS, implementing HA features.
+- Prototyped cloud-based solutions and container-based applications on AWS, Docker, and Rancher.
+- Updated monitoring system for over 60 datacenters, including custom Zenoss Enterprise customization.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Feb 2009 - Dec 2010
+:   **Senior Engineer / Systems Lead**; Netcordia, Inc. / Infoblox, Inc.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Responsibilities included testing and certification of NetMRI appliance hardware and the Linux OS running on the appliance. I was also responsible for development of custom RPMs, the installation and upgrade code, and the admin shell. I also handled dev ops and maintained development support systems.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+- Tested and certified NetMRI appliance hardware and Linux OS
+- Developed custom RPMs, installation/upgrade code, and admin shell
+- Managed dev ops and development support systems
+- Designed installer for OS upgrades (RedHat 9 to CentOS 5) on customer appliances, including repartitioning and data preservation via chroot environment.
+- Deployed VMware ESX cluster using HP C7000 blades and EMC storage for R&D development and QA VMs.
+- Created virtual appliance of Netcordia NetMRI product for benchmarking customer VMware environments, assessing server suitability.
+- Implemented Git version control, continuous build, wiki, bug tracking, and other dev support tools.
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Feb 2005 - Feb 2009
+:   **Chief Engineer**; USinternetworking, an AT&T Company
 
-Extra Section, Call it Whatever You Want
+Reporting to the CTO of the company, I lead the special projects group. This group focused on R&D of upcoming technologies as well as tackling projects which needed to be fast tracked into production. I had two full time engineers and a number of contractors reporting to me.
+
+- Researched virtualization technologies: VMware, Xen, Containers / Zones, LPRS.
+- Architected and engineered multi-datacenter virtualized environment: 100+ host servers, 1000+ virtual machines.
+- Certified load balancing hardware (Spirent Avalanche) including Citrix Netscaler, Crescendo, F5 Big IP.
+- Tested VMware ESX 2.5, 3.x, Virtual Center on diverse hardware including HP Proliant servers, HP C7000 blade enclosure.
+- Cultivated engineering relationships with enterprise technology partners.
+
+Nov 2003 - Feb 2005
+:   **Security Engineer III**; Enterasys Networks
+
+- Tested components of Dragon Intrusion Detection System.
+- Developed web-based utility for tracking software testing progress.
+- Oversaw IDS signature development team.
+
+Jan 2000 - Nov 2003
+:   **Senior Engineer**; USinternetworking, an AT&T Company
+
+- Developed performance measurement system using JBoss / J2EE and Visual Basic.
+- Automated quality performance reports calculating SLA levels from trouble tickets.
+- Automated PeopleSoft installation on Windows 2000 servers.
+- Created automated server build sheets using Perl and XML, accessible via web interface.
+- Provided Level 3 app support for BroadVision, Netscape Suitespot / iPlanet Server, BroadBase, Plumtree, FireHunter.
+
+
+Sep 1996 - Jan 2000
+:   **Head Programmer / System Engineer**; Sitestar, Inc.
+
+- Managed Linux servers (Apache, Sendmail, DNS, Radius, SQL Servers).
+- Developed DSL line status monitoring tools.
+- Contributed to Breezecom wireless network implementation in downtown Annapolis.
+- Provided technical support for DSL installation and dial-up.
+- Developed, maintained, and designed various web sites.
+
+Dec 1995 - Sep 1996
+:   **System Operator / Programmer**; Voice Internet Service
+
+- Managed network of Linux servers for dial-up, web, email, and news services.
+- Developed and maintained company web site and commercial solutions.
+
+
+Education & Training
+---------
+
+- Mulesoft Certified Developer (Associate) - 2016
+- HP Training - uCMDB, OMi, NNMi - 2016
+- Cisco CCNA Boot Camp - 2006
+- Endeca Developer Training - 2005
+- Anne Arundel Community College, Arnold, MD
+- Hollidaysburg Area Senior High School, Hollidaysburg, PA
+
+Hobbies
 ----------------------------------------
 
-* Human Languages:
+- 3D Printing
+- Electronics / Microprocessor Development
+- Cycling
+- Guitar
+- Cooking
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
