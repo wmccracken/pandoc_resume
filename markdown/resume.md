@@ -30,12 +30,19 @@ Experience
 Apr 2019 - Current
 :   **VP Of Engineering**; Enclave Data
 
+As VP of Engineering at Enclave Data, I oversee the engineering team while actively contributing to various projects spanning custom application development, data processing automation, and consulting services.
 
+- Developed custom data analytics tools for a prominent legal analytics company.
+- Created a tool to seamlessly integrate a customer's invoicing system with analytics and reporting tools in Amazon Quicksight.
+- Provided consulting services for network architecture review and enhancement for a leading software development company.
+- Conducted an architecture review and facilitated improvements for the Splunk architecture at a major pharmaceutical company.
+- Contributed to SOC duties for a large pharmaceutical company.
+- Offered comprehensive IT support for a significant government contractor, encompassing telecom assistance, vmWare support, networking, and multi-location monitoring tool implementation.
 
 Dec 2017 - Apr 2019
 :   **Director, Operations Support Systems**; Data Intensity
 
-I was responsible for the technical and managerial oversight of Data Intensity's OSS teams.  These included monitoring, automation, integration and ServiceNow
+I was responsible for the technical and managerial oversight of Data Intensity's OSS teams.  These included monitoring, automation, integration and ServiceNow.
 
 - Developed an eBonding system in Mulesoft for integrating customer ticketing systems with ServiceNow.
 - Led migration of monitoring systems from Sitescope to Nagios.
