@@ -10,4 +10,4 @@ services:
     entrypoint: /entrypoint.sh
     image: resume-make
     volumes:
-      - .:/home/app/resume:z
+      - .:/github/workspace:z

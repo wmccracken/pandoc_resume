@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sh -c "cd /home/app/resume && make all"
+sh -c "cd /github/workspace && make all"

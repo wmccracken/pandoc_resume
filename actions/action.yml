@@ -4,6 +4,4 @@ description: 'Build a document using texlive'
 runs:
   using: 'docker'
   image: 'docker://ghcr.io/wmccracken/pandoc_resume:master'
-  args: 
-   - -v .:/home/app/resume:z
   entrypoint: '/entrypoint.sh'
