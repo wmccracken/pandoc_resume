@@ -38,6 +38,8 @@ As VP of Engineering at Enclave Data, I oversee the engineering team while activ
 - Conducted an architecture review and facilitated improvements for the Splunk architecture at a major pharmaceutical company.
 - Contributed to SOC duties for a large pharmaceutical company.
 - Offered comprehensive IT support for a significant government contractor, encompassing telecom assistance, vmWare support, networking, and multi-location monitoring tool implementation.
+  - Networking support included prototyping integration of new PaloAlto and Aruba equipment with existing network confurations through the use of tools such as GNS3.
+  - Monitoring tool implementation included testing and deploying Grafana, InfluxDB, Clickhouse, Telegraf and customization of Netflow/Sflow collectors.
 
 Dec 2017 - Apr 2019
 :   **Director, Operations Support Systems**; Data Intensity
